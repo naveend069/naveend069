@@ -57,36 +57,17 @@
 - Crop and seed recommendation
 - Leaf disease detection using image analysis
 ---
-## 📊 GitHub Statistics (Dark / Light Adaptive)
+## 📊 GitHub Statistics
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=naveend069&show_icons=true&theme=github_dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=naveend069&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=naveend069&show_icons=true&hide_border=true" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveend069&theme=github_dark" />
 </p>
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?username=naveend069&theme=github-dark&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?username=naveend069&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?username=naveend069&hide_border=true" />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naveend069&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naveend069&theme=github_dark" />
 </p>
----
+
 
 ## 🐍 Contribution Snake Animation
 
