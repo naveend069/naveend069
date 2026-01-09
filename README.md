@@ -56,9 +56,7 @@
 - AI-based soil type classification
 - Crop and seed recommendation
 - Leaf disease detection using image analysis
-
 ---
-
 ## 📊 GitHub Statistics (Dark / Light Adaptive)
 
 <p align="center">
@@ -88,7 +86,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?username=naveend069&hide_border=true" />
   </picture>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake Animation
