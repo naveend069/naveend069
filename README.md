@@ -6,7 +6,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.E Graduate (Electronics And Communication)
-- 💼 Apprentice – Data Entry Operator at ONGC
 - 🌱 Currently learning Web Development and Machine Learning
 - 💡 Interested in software development and applied engineering solutions
 - 📘 Always improving fundamentals and building projects
